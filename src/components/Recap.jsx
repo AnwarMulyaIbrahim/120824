@@ -17,7 +17,7 @@ function Recap() {
         {[
           { Icon: Message, label: 'Messages', path: '/recap/message' },
           { Icon: Image, label: 'Pictures', path: '/recap/pictures' },
-          { Icon: Music, label: 'Music', path: '/recap/music' },
+          // { Icon: Music, label: 'Music', path: '/recap/music' },
         ].map(({ Icon, label, path }) => (
           <div key={label} className="flex flex-col items-center">
             <button

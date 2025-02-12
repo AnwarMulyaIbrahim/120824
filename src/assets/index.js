@@ -1,5 +1,9 @@
 
 import picture from "./picture.png";
+import page1 from "./page1.jpg";
+import page2 from "./page2.jpg";
+import us1 from "./us1.jpg";
+import us2 from "./us2.jpg";
 
 import heavenly from "./heavenly.jpg";
 import sparks from "./sparks.jpeg";
@@ -20,6 +24,10 @@ import christmas from "./christmas.gif";
 export {
 
 picture,
+page1,
+page2,
+us1,
+us2,
 heavenly,
 christmas,
 fireworks,
