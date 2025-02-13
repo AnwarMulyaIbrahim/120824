@@ -48,7 +48,7 @@ function Question() {
           <Camera className="w-5 h-5 text-[#8ab4f8]" />
         </div>
           
-          <div className="mt-8 w-full max-w-[600px]">
+          {/* <div className="mt-8 w-full max-w-[600px]">
             <div className="flex items-center justify-between mb-4">
               <h2 className="text-2xl">Trending searches</h2>
               <button className="p-2">
@@ -63,7 +63,7 @@ function Question() {
                 </div>
               ))}
             </div>
-          </div>
+          </div> */}
         </div>
       ) : (
         // Search Input View with Keyboard
